@@ -1,0 +1,9 @@
+{
+	"name": "srigitrepo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e9c249ba-6838-4452-98a8-2c02bb6811fc",
+		"tenantId": "3dcd75b6-d9c6-4d90-90bd-d18af46f6a7d"
+	}
+}
